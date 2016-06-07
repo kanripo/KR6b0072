@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:32.667876
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:06
 #+TITLE: 群牛譬經
 #+PROPERTY: CBETA_ID T04n0215
 #+PROPERTY: ID KR6b0072
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 215
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0072_T_001-0800b> 
 #+PROPERTY: JUAN 1
 ¶
-No.215¶
-
- 佛說群牛譬經¶
+No. 215¶
+佛說群牛譬經¶
 ¶
 西晉沙門法炬譯¶
 
